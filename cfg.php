@@ -1,0 +1,1 @@
+<?php $uid 	='xxxxxxxx'; $n 	='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
